@@ -10,3 +10,7 @@ Projectfinal of 88832859_2_2562_Software Engineering for Smart Devices
 5.graph
 
 มีผลลัพธ์ ดังนี้
+
+![alt text](https://www.img.in.th/image/Tl1wRH)
+![alt text](https://www.img.in.th/image/Tl1QEE)
+![alt text](https://www.img.in.th/image/Tl1WH2)
