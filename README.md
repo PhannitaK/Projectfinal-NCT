@@ -11,6 +11,6 @@ Projectfinal of 88832859_2_2562_Software Engineering for Smart Devices
 
 มีผลลัพธ์ ดังนี้
 
-![alt text](https://www.img.in.th/image/Tl1wRH)
-![alt text](https://www.img.in.th/image/Tl1QEE)
-![alt text](https://www.img.in.th/image/Tl1WH2)
+https://www.img.in.th/image/Tl1wRH
+https://www.img.in.th/image/Tl1QEE
+https://www.img.in.th/image/Tl1WH2
